@@ -1,5 +1,5 @@
 # dataviz-graphs-dist
- Ce projet a pour but de mettre en pratique tout ce qu’on a vu lors des cours de data visualisation. Cette application contient plusieurs interfaces de visualisation (tableau, map, courbes) , qui permettent de visualiser en temps réel plusieurs statistiques concernant les données de la société de transport SNCF.
+This project is designed to put into practice everything we have seen during the data visualization classes. This application contains several visualization interfaces (table, map, curves), which allow to visualize in real time several statistics concerning the data of the SNCF transport company.
  
 # Demo
 See [Here](https://dataviz.zkompiler.com/).
